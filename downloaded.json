@@ -1,0 +1,14 @@
+{
+  "consultationId" : 123,
+  "symptoms" : "Fever, sore throat, and fatigue",
+  "condition" : "Viral pharyngitis",
+  "date" : null,
+  "notes" : "Patient is advised to rest and stay hydrated.",
+  "treatment" : {
+    "planDetails" : "Rest, hydration, and over-the-counter painkillers",
+    "startsAt" : null,
+    "endsAt" : null,
+    "state" : "ongoing",
+    "diagnostic" : null
+  }
+}

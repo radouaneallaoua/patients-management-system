@@ -1,0 +1,11 @@
+services:
+  discovery:
+    image: "discovery-service"
+  consultation:
+    image: "consultation-service"
+  auth:
+    image: "auth-service"
+  patient:
+    image: "patient-management"
+  gateway:
+    image: "gateway-service"

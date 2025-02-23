@@ -1,0 +1,5 @@
+#spring:
+#  security:
+#    oauth2:
+#      resourceserver:
+#        secret-key: aesr2rdlddkdkkeordojrodorjfhhgrorh2j3o3o422pcjcjjcid9jdkhjdjkkd1
